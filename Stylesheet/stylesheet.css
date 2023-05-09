@@ -1,0 +1,20 @@
+body {
+  padding-top: 100px;
+  background-color: black !important;
+}
+.accordion-button:not(.collapsed) {
+  color: red;
+}
+
+.offeredTables {
+  max-width: 500px;
+  margin: auto;
+}
+
+label {
+  padding-top: 1rem;
+}
+
+.packageTitle:not(.collapsed) {
+  background-color: red;
+}
